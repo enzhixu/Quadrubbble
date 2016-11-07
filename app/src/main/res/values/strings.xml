@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Quadrubbble</string>
+    <string name="share_to">share to</string>
+    <string name="drawer_menu_home">Home</string>
+    <string name="drawer_menu_likes">Likes</string>
+    <string name="drawer_menu_buckets">Buckets</string>
+    <string name="drawer_menu_following">Following</string>
+
+    <string name="title_home">Quadrubbble</string>
+    <string name="title_likes">Likes</string>
+    <string name="title_buckets">Buckets</string>
+    <string name="title_following">Following</string>
+
+    <string name="open_drawer">open drawer</string>
+    <string name="close_drawer">close drawer</string>
+    <string name="log_out">Log out</string>
+    <string name="action_save">Save</string>
+    <string name="new_bucket_name">Bucket name</string>
+    <string name="new_bucket_description">Bucket description</string>
+
+    <string name="new_bucket_create">create</string>
+
+    <string name="follow">follow</string>
+    <string name="unfollow">unfollow</string>
+</resources>

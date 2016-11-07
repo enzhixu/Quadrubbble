@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<android.support.v7.widget.CardView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:fresco= "http://schemas.android.com/apk/res-auto"
+    android:id="@+id/cover"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <com.facebook.drawee.view.SimpleDraweeView
+            android:id="@+id/shot_list_image"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            fresco:viewAspectRatio = "1.33"
+            fresco:placeholderImageScaleType="fitCenter"
+            fresco:placeholderImage = "@drawable/shot_place_holder"/>
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+            <TextView
+                android:id="@+id/shot_list_view_count"
+                android:padding="@dimen/spacing_small"
+                android:layout_toLeftOf="@+id/shot_list_like_count"
+                android:drawableLeft="@drawable/ic_visibility_black_24px"
+                android:text="view"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+            <TextView
+                android:id="@+id/shot_list_like_count"
+                android:padding="@dimen/spacing_small"
+                android:layout_toLeftOf="@+id/shot_list_bucket_count"
+                android:drawableLeft="@drawable/ic_favorite_black_24px"
+                android:text="favorite"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+            <TextView
+                android:id="@+id/shot_list_bucket_count"
+                android:padding="@dimen/spacing_small"
+                android:layout_alignParentRight="true"
+                android:drawableLeft="@drawable/ic_inbox_black_24px"
+                android:text="bucket"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+
+        </RelativeLayout>
+
+    </LinearLayout>
+
+</android.support.v7.widget.CardView>
