@@ -1,0 +1,311 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\enzhi\Quadrubbble\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\enzhi\Quadrubbble\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.2.1_166073b7e584450b0f2471750ef24cb4f60f25d7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\enzhi\Quadrubbble\app\build\intermediates\exploded-aar\com.facebook.fresco\animated-webp\0.12.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="907480570b617f29e3a8f3d248b8a1d9fd137677">
+        <dex dex="C:\Users\enzhi\Quadrubbble\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.facebook.fresco-animated-webp-0.12.0_3bfc7b7f1ea0d8af2129073f7291cc465cb30831\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\enzhi\Quadrubbble\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="C:\Users\enzhi\Quadrubbble\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-24.2.1_b40e7891e57b576435d467d9c7aa579dd6b9389a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\enzhi\Quadrubbble\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="C:\Users\enzhi\Quadrubbble\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-24.2.1_b68770c0109f2dc8ffa2f3ac2c5eff92d1581b5f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\enzhi\Quadrubbble\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="C:\Users\enzhi\Quadrubbble\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-24.2.1_5dca05c4734658e8bca2ea92d3e4913cb46a22ef\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\enzhi\Quadrubbble\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="C:\Users\enzhi\Quadrubbble\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.2.1_c4acf0de22639e67eec61318a55dfb03471e0dce\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\enzhi\Quadrubbble\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="C:\Users\enzhi\Quadrubbble\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_3fd50aab1657e390cf684a2f268e20855c9a1584\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\enzhi\Quadrubbble\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="C:\Users\enzhi\Quadrubbble\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-24.2.1_22aa5aa72c6cc99c8942df1e0a156b67e5d3c2a1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\enzhi\Quadrubbble\app\build\intermediates\exploded-aar\com.facebook.fresco\fbcore\0.12.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="40e5cb8708fc25fe57cb403cc82e9ef98376b648">
+        <dex dex="C:\Users\enzhi\Quadrubbble\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.facebook.fresco-fbcore-0.12.0_836d9f3856450680f1e4932bd4fb1d1a58fcc1bb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\enzhi\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.7\751f548c85fa49f330cecbb1875893f971b33c4e\gson-2.7.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
+        <dex dex="C:\Users\enzhi\Quadrubbble\app\build\intermediates\transforms\dex\debug\folders\1000\10\gson-2.7_aa2871725b858b0c260d7d56357adc50a20dfb17\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\enzhi\Quadrubbble\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="C:\Users\enzhi\Quadrubbble\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-24.2.1_e8323ddc2b841410dd1380801f1249a76c112e9d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\enzhi\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.4.1\c7c4f9e35c2fd5900da24f9872e3971801f08ce0\okhttp-3.4.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="c7c4f9e35c2fd5900da24f9872e3971801f08ce0">
+        <dex dex="C:\Users\enzhi\Quadrubbble\app\build\intermediates\transforms\dex\debug\folders\1000\10\okhttp-3.4.1_127b777b1902004b6be2f49b13af4df850cd0d66\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\enzhi\Quadrubbble\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="C:\Users\enzhi\Quadrubbble\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.2.1_104d31fa14611867fa1bdea0bcfc98773f277a17\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\enzhi\.gradle\caches\modules-2\files-2.1\com.nineoldandroids\library\2.4.0\e9b63380f3a242dbdbf103a2355ad7e43bad17cb\library-2.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="C:\Users\enzhi\Quadrubbble\app\build\intermediates\transforms\dex\debug\folders\1000\10\library-2.4.0_3c37c593c1edd3a6bfa8c45a876229174fa7b34a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\enzhi\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="C:\Users\enzhi\Quadrubbble\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.2.1_4cdf1b0e2b8ec2b98776c59b619448290c9a3919\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\enzhi\Quadrubbble\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="c5e6490573cd2cc8018417f60ddd251138b6ed61">
+        <dex dex="C:\Users\enzhi\Quadrubbble\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-cardview-v7-24.2.1_759b6ec8b38cbe21a36101d105aadc02e3f7a163\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\enzhi\Quadrubbble\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="C:\Users\enzhi\Quadrubbble\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_11f29d46c4e0e946e103008fe725ba70f8d21550\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\enzhi\Quadrubbble\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="C:\Users\enzhi\Quadrubbble\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_f248cbf0fb12f900d0f293075759b131ae35b74d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\enzhi\Quadrubbble\app\build\intermediates\exploded-aar\com.android.support\design\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
+        <dex dex="C:\Users\enzhi\Quadrubbble\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-24.2.1_e2f93d7cc06ea13ec31c57a200b47e5760278b76\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\enzhi\Quadrubbble\app\build\intermediates\exploded-aar\com.facebook.fresco\drawee\0.12.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="1e346707e4770db216049a532ab3eb5e317cf82a">
+        <dex dex="C:\Users\enzhi\Quadrubbble\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.facebook.fresco-drawee-0.12.0_f6384e68d5309ad4804338cfa22e0b0085946cf9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\enzhi\Quadrubbble\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="C:\Users\enzhi\Quadrubbble\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-24.2.1_f48114e5e332f807e8c261144e36748eeb041e40\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\enzhi\Quadrubbble\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="C:\Users\enzhi\Quadrubbble\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_5cbbb3b5f186da2cbe46119b2f7466b81983647f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\enzhi\Quadrubbble\app\build\intermediates\exploded-aar\com.facebook.fresco\animated-base\0.12.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="7ba22785d529a9cd95f714ca782a59846a22ce02">
+        <dex dex="C:\Users\enzhi\Quadrubbble\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.facebook.fresco-animated-base-0.12.0_33ed89fda796288aac138e73718606e6dc69ede5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\enzhi\Quadrubbble\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="C:\Users\enzhi\Quadrubbble\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_5313bd49c2cdb9f62de3cfd6eaa0a39a195bec62\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\enzhi\Quadrubbble\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="C:\Users\enzhi\Quadrubbble\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.2.1_5cecb7e43224f7e60c823f4e349627f61c518669\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\enzhi\Quadrubbble\app\build\intermediates\exploded-aar\com.facebook.fresco\animated-gif\0.12.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="92e359c53b444598bf7973f1cbf31c8dc769e19f">
+        <dex dex="C:\Users\enzhi\Quadrubbble\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.facebook.fresco-animated-gif-0.12.0_e0be185d502b215c9771987a647716c9086c9f31\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\enzhi\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-tasks\1.4.0\d85884acf6810a3bbbecb587f239005cbc846dc4\bolts-tasks-1.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="C:\Users\enzhi\Quadrubbble\app\build\intermediates\transforms\dex\debug\folders\1000\10\bolts-tasks-1.4.0_a2a020037527b5912a5fb4fa66c935644a440cce\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\enzhi\Quadrubbble\app\build\intermediates\exploded-aar\com.facebook.fresco\fresco\0.12.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="a540784239c611ea490593e2053a5e2890675c68">
+        <dex dex="C:\Users\enzhi\Quadrubbble\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.facebook.fresco-fresco-0.12.0_796d3782457f9618a4602e5e9fa05fc25745a488\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\enzhi\Quadrubbble\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline\0.12.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="145da27a459a63ea0c4e318930365cf0a8b8e891">
+        <dex dex="C:\Users\enzhi\Quadrubbble\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.facebook.fresco-imagepipeline-0.12.0_1d90b8e57dc84ede1ca4a8d0930934e6890922c2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\enzhi\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.9.0\f824591a0016efbaeddb8300bee54832a1398cfa\okio-1.9.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="f824591a0016efbaeddb8300bee54832a1398cfa">
+        <dex dex="C:\Users\enzhi\Quadrubbble\app\build\intermediates\transforms\dex\debug\folders\1000\10\okio-1.9.0_dd6426f7804fc724f750ce06a426146963c61af7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\enzhi\Quadrubbble\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="8b3c486cce709562fdfdaf1df6223e17eebe7a50">
+        <dex dex="C:\Users\enzhi\Quadrubbble\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_d32aab7aeedc37dbfb4e0244f39f613b23d24910\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\enzhi\Quadrubbble\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline-base\0.12.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="c9a86e6bc8300fc00c191949ac61a2f7165e35c7">
+        <dex dex="C:\Users\enzhi\Quadrubbble\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.facebook.fresco-imagepipeline-base-0.12.0_65b3b713e7cabad2a367741b6374863de0331be8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\enzhi\Quadrubbble\app\build\intermediates\exploded-aar\com.facebook.fresco\webpsupport\0.12.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="f3d9074e9cbc7d0eb180287e29ad3dec039763b5">
+        <dex dex="C:\Users\enzhi\Quadrubbble\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.facebook.fresco-webpsupport-0.12.0_94294d92acfc99a3551cc6f127c45317229724a9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\enzhi\Quadrubbble\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="ecc5d97b888c27a0e0016de6ea1e2b856d2c7435">
+        <dex dex="C:\Users\enzhi\Quadrubbble\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_067c0e067c3500894942eeb76264aa55eb5b1e00\classes.dex" />
+    </item>
+
+</items>
